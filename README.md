@@ -7,19 +7,23 @@
 </div>
 
 ## Connect me
-
-<a href="https://github.com/Nasti4k">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
-</a>
-
-<a href="mailto:nastyap4nteleeva@gmail.com">
-  <img src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=red" alt="Email Badge"/>
-</a>
+<div>
+  <a href="https://github.com/Nasti4k">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</div>
+<div>
+  <a href="mailto:nastyap4nteleeva@gmail.com">
+    <img src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=red" alt="Email Badge"/>
+  </a>
+</div>
 
 ## Languages & tools I worked with
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" style="background: white; border-radius: 12px; padding: 8px;"/>&nbsp;
+  <div style="background-color: white; border-radius: 12px; padding: 8px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  </div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40" style="background: white; border-radius: 12px; padding: 8px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="background: white; border-radius: 12px; padding: 8px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40" style="background: white; border-radius: 12px; padding: 8px;"/>&nbsp;
@@ -37,8 +41,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40" style="background: white; border-radius: 12px; padding: 8px;"/>&nbsp;
 </div>
 
+
 ## My proje
 
 ## Tech stack
 
-<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/cfb24057-130f-40a5-a58b-049bedfc38e3" />
+<div align="center">
+  <img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/cfb24057-130f-40a5-a58b-049bedfc38e3" />
+</div>
