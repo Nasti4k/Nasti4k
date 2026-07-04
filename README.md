@@ -44,5 +44,5 @@
 ## Tech stack
 
 <div align="center">
-  <img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/cfb24057-130f-40a5-a58b-049bedfc38e3" />
+  <img width="750" height="250" alt="image" src="https://github.com/user-attachments/assets/c082a7a0-9628-4c4b-8f51-f887f26306cd" />
 </div>
